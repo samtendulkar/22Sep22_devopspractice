@@ -1,0 +1,4 @@
+computers 5
+laptop 4
+os 9
+aws 1
