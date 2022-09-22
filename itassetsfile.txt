@@ -1,1 +1,2 @@
 printers 3
+scanners 1
